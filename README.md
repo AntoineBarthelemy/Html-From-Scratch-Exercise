@@ -1,4 +1,3 @@
-# Réalisation des exercices du module 1 de la formation : Parcours Complet : Mastering Front-End de Julien Azambourg
+# Completion of exercises from Module 1 of the course: Complete Path: Mastering Front-End by Julien Azambourg 🎓
 
-Les trois exercices constituant ce module sont des exercices en HTML. Ils présentent une **difficulté graduelle**, allant de la réalisation d'un simple tableau à la réalisation de maquettes. 
-La déstructuration des maquettes en sous-blocs est essentielle pour coder proprement. Ma logique de déstructuration est présentée dans les fichiers 'maquette_destructuration'."
+The three exercises that make up this module are HTML exercises. They feature a gradual difficulty, ranging from creating a simple table to integrating mockups. The deconstruction of mockups into sub-blocks is essential for clean coding. My logic for deconstruction is presented in the 'mockup_deconstruction' files.
